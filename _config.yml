@@ -1,0 +1,23 @@
+name: Mick Darling dot com
+favicon: null
+layout_spectrum: 0.679346005897969
+typography_spectrum: 0.16485300054773688
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6264663422480226
+  lightness: 0.38044000836089253
+  saturation: 0.7245124990586191
+  rhythmicContrast: 0.023200092371553183
+purpose: []
