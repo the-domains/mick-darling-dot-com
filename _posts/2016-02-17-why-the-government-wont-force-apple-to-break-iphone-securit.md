@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "There is a VERY big economic reason that the Government won't force Apple 's hand to brute force the iPhone or future devices."
-datePublished: '2016-02-17T23:48:56.817Z'
-dateModified: '2016-02-17T23:48:56.598Z'
+datePublished: '2016-02-18T00:07:51.480Z'
+dateModified: '2016-02-18T00:03:33.894Z'
 title: "Why the Government won't force Apple to break iPhone security in the end."
 author: []
+sourcePath: _posts/2016-02-17-why-the-government-wont-force-apple-to-break-iphone-securit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-why-the-government-wont-force-apple-to-break-iphone-securit.md
-published: true
 url: why-the-government-wont-force-apple-to-break-iphone-securit/index.html
 _type: Article
 
@@ -46,7 +46,7 @@ This is the crux of the whole order that Apple and (likely a lot of other tech c
 
 Tim Cook alludes to it in his [Customer Letter][1] talking about the "threat to data security" and  the "dangerous precedent" it sets.
 
-## The Crux (aka: it is all about the money)
+**The Crux** (aka: it is all about the money)
 
 If the government can use the All Writs Act to require any company to build something like this super speed safe cracker that explicitly undoes all the security that is designed into their devices in the first place the burden to their brand and technology in the marketplace turns into a multi-billion dollar.  For a company the size of their present market base is plenty to say this would cut into their value as a company massively.
 
