@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Mick Darling dot com
+favicon: null
+layout_spectrum: 0.61062
+typography_spectrum: 0.5934479
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7245125
-  lightness: 0.4011815
-  brandStrength: 0.6858217
   brandColors:
     - '#FFFFFF'
     - '#051344'
     - '#66A4B3'
     - '#FDCC99'
     - '#4542AA'
+  brandStrength: 0.6875
+  lightness: 0.4011815
+  saturation: 0.7245125
   rhythmicContrast: 0.08968847
-typography_spectrum: 0.5934479
-layout_spectrum: 0.3281418
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Mick Darling dot com
+purpose: []
