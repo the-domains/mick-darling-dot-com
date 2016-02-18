@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "There is a VERY big economic reason that the Government won't force Apple 's hand to brute force the iPhone or future devices."
-datePublished: '2016-02-18T00:07:51.480Z'
-dateModified: '2016-02-18T00:03:33.894Z'
+datePublished: '2016-02-18T03:29:21.754Z'
+dateModified: '2016-02-18T03:28:53.225Z'
 title: "Why the Government won't force Apple to break iPhone security in the end."
 author: []
 sourcePath: _posts/2016-02-17-why-the-government-wont-force-apple-to-break-iphone-securit.md
