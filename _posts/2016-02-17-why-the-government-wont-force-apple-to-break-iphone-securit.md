@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: "There is a VERY big economic reason that the Government won't force Apple 's hand to brute force the iPhone or future devices."
-datePublished: '2016-02-18T03:29:21.754Z'
-dateModified: '2016-02-18T03:28:53.225Z'
-title: "Why the Government won't force Apple to break iPhone security in the end."
+description: "There is a VERY big economic reason that the Government shouldn't be able to force Apple 's hand to brute force the iPhone or future devices."
+datePublished: '2016-02-19T22:17:56.867Z'
+dateModified: '2016-02-19T22:17:51.111Z'
+title: The Burden of Breaking Into iOS Is Huge
 author: []
 sourcePath: _posts/2016-02-17-why-the-government-wont-force-apple-to-break-iphone-securit.md
 published: true
@@ -22,7 +22,10 @@ url: why-the-government-wont-force-apple-to-break-iphone-securit/index.html
 _type: Article
 
 ---
-Below is a selection of somewhat technical text of the instructions given to Apple in the recently discussed case where the FBI wants Apple's help to break the security on the iPhone.  These excerpts are taken from a [techdirt article][0] which also has some excellent comentary
+By now you've heard about the "backdoor" or "master key" that the FBI wants Apple to build to get into the iPhone of the shooter from San Bernardino.  What you may not realize is that the metaphors everyone is using to describe this are quite different from what is actually being ordered, and that is skewing the entire conversation.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6546749-7b2c-45fe-a086-564a0af911cd.jpg)
+
+Below is a selection of somewhat technical text of the instructions given to Apple in the recently discussed case where the FBI wants Apple's help to break the security on the iPhone.  These excerpts are taken from a [techdirt article][0] which also has some excellent commentary
 
 > Apple's reasonable technical assistance shall accomplish the following three important functions: (1) it will bypass or disable the auto-erase function whether or not it has been enabled; (2) it will enable the FBI to submit passcodes to the SUBJECT DEVICE for testing electronically via the physical device port, Bluetooth, Wi-Fi, or other protocol available on the SUBJECT DEVICE and (3) it will ensure that when the FBI submits passcodes to the SUBJECT DEVICE, software running on the device will not purposefully introduce any additional delay between passcode attempts beyond what is incurred by Apple hardware.
 
