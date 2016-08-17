@@ -1,7 +1,7 @@
 name: Mick Darling dot com
 favicon: null
 layout_spectrum: 0.88655
-typography_spectrum: 0.28475
+typography_spectrum: 0.65083
 collections:
   - index:
       path: /
@@ -36,5 +36,5 @@ color:
   brandStrength: 0.75
   lightness: 0.4011815
   saturation: 0.5625
-  rhythmicContrast: 0.08968847
+  rhythmicContrast: 0.5
 purpose: []
